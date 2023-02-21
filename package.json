@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "jsonwebtoken": "^9.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
   }
 }
